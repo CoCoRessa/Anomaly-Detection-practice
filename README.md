@@ -1,1 +1,1 @@
-# Anomaly-Detection-practice
+# Anomaly Detection practice
